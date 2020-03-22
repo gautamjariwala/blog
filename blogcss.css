@@ -1,0 +1,35 @@
+.header {
+  color: green;
+  text-align: center;
+  box-sizing: border-box;
+  
+}
+
+.footer {
+  scroll-padding-top: 20px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: gainsboro;
+  color: blue;
+  text-align: center;
+  position: fixed;
+}
+
+img {
+  height: 400px;
+  width: 200px;
+  object-fit: cover;
+}
+
+
+
+.navbar {
+    float: right;
+}
+
+/* .container{
+  margin-top: 50px;
+} */
